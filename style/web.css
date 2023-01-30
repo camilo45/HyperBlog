@@ -24,3 +24,17 @@ body{
     padding: 1em;
     border: 1px solid rgb(51, 8, 38);
 }
+#cabezera{
+    background: #339;
+    color:white;
+    margin: 0;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 0.5em;
+    font-weight: bold;
+}
+#cabezera #agline{
+    padding: 0 0 1em;
+    font-size: larger;
+    font-weight: normal;
+    font-size: 0.5em;
+}
