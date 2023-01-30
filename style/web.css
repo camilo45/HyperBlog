@@ -1,9 +1,26 @@
 body{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: deeppink;
+    color: black;
 
 }
-.titulo{
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(51, 8, 38);
+    background-color: aquamarine;
+    margin: auto;
+}
+.titulo {
     color: red ;
+    background-color: blanchedalmond;
+
+}
+.image{
+    width: 70%;
+    background-color: rgb(40, 40, 51);
+    margin: auto;
+    padding: 1em;
+    border: 1px solid rgb(51, 8, 38);
 }
